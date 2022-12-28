@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahian ahmad</h1>
-<h3 align="center">Front end web developer in bangladesh</h3>
+<h3 align="center">Front end developer in bangladesh</h3>
 
 - 👨‍💻 All of my projects are available at [https://mahianahmad.netlify.app/](https://mahianahmad.netlify.app/)
 
