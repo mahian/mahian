@@ -1,27 +1,60 @@
-<h1 align="center">Hi 👋, I'm Mahian ahmad</h1>
-<h3 align="center">Front end developer in bangladesh</h3>
+# Mahian's Developer Profile
 
-- 👨‍💻 All of my projects are available at [https://mahianahmad.netlify.app/](https://mahianahmad.netlify.app/)
+Welcome! I am a passionate and dedicated **Full-Stack Developer** specializing in building efficient, scalable, and maintainable web applications. With a focus on both frontend and backend development, I bring strong skills in JavaScript frameworks, server-side programming, and modern API solutions to deliver seamless, user-friendly experiences.
 
-- 📫 How to reach me **mahianahmad9@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1m4jno2qeLwNLRmme4zWjZY_fvh-UdglO/view](https://drive.google.com/file/d/1m4jno2qeLwNLRmme4zWjZY_fvh-UdglO/view)
+## 🛠️ Core Skills
+- **Frontend**: Vue.js, React.js, HTML5, CSS3, Tailwind CSS
+- **Backend**: Node.js, Express.js
+- **API Development**: GraphQL, REST, Apollo Server
+- **Databases**: MongoDB, Mongoose
+- **Other Tools**: Git, Docker, Webpack, Vite, Vercel
 
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-  </p>
+## 💼 Experience
+
+- **Full-Stack Web Developer**  
+  Developed and maintained web applications that prioritize responsiveness, performance, and security. Experienced in handling complex project requirements with a user-focused approach and a commitment to code quality and performance.
   
+- **Projects with Real-world Impact**  
+  I’ve worked on a variety of projects that have provided hands-on experience with real-time data, e-commerce, SaaS platforms, and single-page applications (SPAs). I leverage technologies like Vue.js, GraphQL, and Node.js to deliver solutions that meet user and business needs.
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 [E-commerce SaaS Platform](https://your-live-ecommerce-link.com)
+**Technologies**: Vue.js, Node.js, Express, Apollo Server, MongoDB  
+A full-scale SaaS platform for e-commerce, where customers can buy from multiple stores, and each store has its own admin panel. This project involved implementing multi-tenancy, user role management, and a custom messenger for seamless communication.
+
+### 🔹 [Real-time Chat Application](https://your-live-chat-link.com)
+**Technologies**: Vue.js, Node.js, GraphQL WebSocket, MongoDB  
+A responsive, real-time messaging app supporting multiple users, built with Vue.js and Node.js using GraphQL WebSocket. This project demonstrates expertise in WebSocket for real-time features and efficient handling of live data streams.
+
+### 🔹 [Online Book Store](https://your-live-bookstore-link.com)
+**Technologies**: Vue.js, Apollo Client, GraphQL  
+A clean, responsive front-end for an online bookstore, showcasing extensive use of GraphQL and Apollo for data querying and handling. Built with Vue.js and Tailwind CSS for a polished user interface.
+
+---
+
+## 🌱 Ongoing Learning
+I’m continually expanding my knowledge in modern web technologies, with recent focuses on:
+- Optimizing Vue.js component designs for performance
+- Advanced GraphQL features for better API efficiency and flexibility
+- Building scalable and secure microservices with Node.js and Apollo Server
+
+---
+
+## 💬 Let's Connect
+
+I'm always open to connecting with like-minded professionals and discussing potential opportunities. Feel free to reach out!
+
+- **LinkedIn**: [linkedin.com/in/mahianahmad](https://www.linkedin.com/in/mahianahmad)
+- **GitHub**: [github.com/mahian](https://github.com/mahian)
+- **Email**: your-email@example.com
+
+--- 
+
+Thank you for viewing my profile! Let's build something amazing together!
